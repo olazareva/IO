@@ -1,0 +1,3 @@
+BufferedReader and BufferedWriter use an internal buffer to store data while reading and writing, respectively. BufferedReader provides a new method readLine(), which reads a line and returns a String (without the line delimiter). 
+
+The following example shows the use of BufferedReader and BufferedWriter.
